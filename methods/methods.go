@@ -22,7 +22,6 @@ func main() {
 	fmt.Println("perim: ", r.perim())
 
 	rp := &r
-	rp.height = 12
 
 	fmt.Println("area: ", rp.area())
 	fmt.Println("perim: ", rp.perim())
